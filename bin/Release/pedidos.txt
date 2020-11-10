@@ -1,0 +1,10 @@
+Mesa nro 3, estado: con pedido generado
+Pedido nro 2
+	Comensales: 1
+	Fecha y hora: 9/11/2020 21:15:17
+	Historial de estado:
+		-Estado: abierto, inicio: 9/11/2020 21:15:17
+	Detalle de pedido:
+		-Producto: Bastones de muzzarella, cantidad: 2, precio: $240, hora: 21:15
+		-Producto: Fernet con coca, cantidad: 1, precio: $300, hora: 21:15
+		-Producto: Tiramisú, cantidad: 1, precio: $300, hora: 21:15

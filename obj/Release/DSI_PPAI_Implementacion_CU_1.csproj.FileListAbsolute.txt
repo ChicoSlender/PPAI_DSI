@@ -1,0 +1,11 @@
+C:\Users\gtben\OneDrive\Escritorio\Cosas de la Faculad\DSI\PPAI\Implementacion CU 1\DSI_PPAI_Implementacion_CU_1\bin\Release\DSI_PPAI_Implementacion_CU_1.exe.config
+C:\Users\gtben\OneDrive\Escritorio\Cosas de la Faculad\DSI\PPAI\Implementacion CU 1\DSI_PPAI_Implementacion_CU_1\bin\Release\DSI_PPAI_Implementacion_CU_1.exe
+C:\Users\gtben\OneDrive\Escritorio\Cosas de la Faculad\DSI\PPAI\Implementacion CU 1\DSI_PPAI_Implementacion_CU_1\bin\Release\DSI_PPAI_Implementacion_CU_1.pdb
+C:\Users\gtben\OneDrive\Escritorio\Cosas de la Faculad\DSI\PPAI\Implementacion CU 1\DSI_PPAI_Implementacion_CU_1\obj\Release\DSI_PPAI_Implementacion_CU_1.csprojAssemblyReference.cache
+C:\Users\gtben\OneDrive\Escritorio\Cosas de la Faculad\DSI\PPAI\Implementacion CU 1\DSI_PPAI_Implementacion_CU_1\obj\Release\DSI_PPAI_Implementacion_CU_1.CapaPresentacion.PantAdmPedidoMesa.resources
+C:\Users\gtben\OneDrive\Escritorio\Cosas de la Faculad\DSI\PPAI\Implementacion CU 1\DSI_PPAI_Implementacion_CU_1\obj\Release\DSI_PPAI_Implementacion_CU_1.CapaPresentacion.PantMenuPrincipal.resources
+C:\Users\gtben\OneDrive\Escritorio\Cosas de la Faculad\DSI\PPAI\Implementacion CU 1\DSI_PPAI_Implementacion_CU_1\obj\Release\DSI_PPAI_Implementacion_CU_1.Properties.Resources.resources
+C:\Users\gtben\OneDrive\Escritorio\Cosas de la Faculad\DSI\PPAI\Implementacion CU 1\DSI_PPAI_Implementacion_CU_1\obj\Release\DSI_PPAI_Implementacion_CU_1.csproj.GenerateResource.cache
+C:\Users\gtben\OneDrive\Escritorio\Cosas de la Faculad\DSI\PPAI\Implementacion CU 1\DSI_PPAI_Implementacion_CU_1\obj\Release\DSI_PPAI_Implementacion_CU_1.csproj.CoreCompileInputs.cache
+C:\Users\gtben\OneDrive\Escritorio\Cosas de la Faculad\DSI\PPAI\Implementacion CU 1\DSI_PPAI_Implementacion_CU_1\obj\Release\DSI_PPAI_Implementacion_CU_1.exe
+C:\Users\gtben\OneDrive\Escritorio\Cosas de la Faculad\DSI\PPAI\Implementacion CU 1\DSI_PPAI_Implementacion_CU_1\obj\Release\DSI_PPAI_Implementacion_CU_1.pdb
